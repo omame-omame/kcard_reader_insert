@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4D1FC8A6-546C-42CA-AD55-C86A5CBA007B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>guitar_test</RootNamespace>
-    <AssemblyName>guitar_test</AssemblyName>
+    <RootNamespace>card_insert</RootNamespace>
+    <AssemblyName>card_insert</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
