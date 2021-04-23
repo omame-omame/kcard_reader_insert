@@ -1,0 +1,10 @@
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\bin\Debug\guitar_test.exe.config
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\bin\Debug\guitar_test.exe
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\bin\Debug\guitar_test.pdb
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\konami_card_reader_insert.csprojAssemblyReference.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\guitar_test.Form1.resources
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\guitar_test.Properties.Resources.resources
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\konami_card_reader_insert.csproj.GenerateResource.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\konami_card_reader_insert.csproj.CoreCompileInputs.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\guitar_test.exe
+C:\Users\oppyo\Documents\Visual Studio 2019\konami_card_reader_insert\konami_card_reader_insert\obj\Debug\guitar_test.pdb

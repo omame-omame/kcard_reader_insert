@@ -1,0 +1,10 @@
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\bin\Release\guitar_test.exe.config
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\bin\Release\guitar_test.exe
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\bin\Release\guitar_test.pdb
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.csprojAssemblyReference.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.Form1.resources
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.Properties.Resources.resources
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.csproj.GenerateResource.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.csproj.CoreCompileInputs.cache
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.exe
+C:\Users\oppyo\Documents\Visual Studio 2019\guitar_test\guitar_test\obj\Release\guitar_test.pdb
